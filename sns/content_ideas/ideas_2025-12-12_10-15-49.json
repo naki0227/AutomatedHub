@@ -1,0 +1,165 @@
+[
+  {
+    "category": "技術",
+    "title": "Flutter State Management: Provider vs Riverpod 徹底比較",
+    "description": "Flutterアプリ開発における状態管理手法として、ProviderとRiverpodの違いを具体的なコード例を交えながら徹底比較します。それぞれのメリット・デメリット、使い分けのポイントを解説。",
+    "platform": "youtube",
+    "key_points": [
+      "Providerの基本",
+      "Riverpodの利点",
+      "コード例",
+      "状態管理戦略"
+    ],
+    "target_audience": "Flutter初級～中級者",
+    "estimated_duration": "8分",
+    "related_project": null,
+    "hashtags": [
+      "#Flutter",
+      "#状態管理",
+      "#Provider",
+      "#Riverpod",
+      "#アプリ開発"
+    ],
+    "created_at": "2025-12-12T10:15:49.766343"
+  },
+  {
+    "category": "語学",
+    "title": "スキマ時間で語彙力爆上げ！Vidnitive活用術",
+    "description": "Vidnitiveを使って、YouTube動画から効率的に語彙を増やす方法を紹介。単語帳作成、例文確認、発音練習など、具体的なステップを解説します。",
+    "platform": "tiktok",
+    "key_points": [
+      "Vidnitiveの使い方",
+      "語彙学習のコツ",
+      "スキマ時間の活用",
+      "記憶定着のテクニック"
+    ],
+    "target_audience": "語学学習者",
+    "estimated_duration": "45秒",
+    "related_project": "Vidnitive",
+    "hashtags": [
+      "#語学学習",
+      "#英単語",
+      "#Vidnitive",
+      "#効率学習",
+      "#YouTube学習"
+    ],
+    "created_at": "2025-12-12T10:15:49.766467"
+  },
+  {
+    "category": "アプリPR",
+    "title": "Encura: パーソナル学芸員AIが生まれた理由 - 開発秘話と未来",
+    "description": "Encura開発の裏側を語ります。開発に至った背景、苦労した点、今後の展望などをインタビュー形式で紹介。Encuraに込められた想いを伝えます。",
+    "platform": "note",
+    "key_points": [
+      "開発背景",
+      "技術的課題",
+      "AIの可能性",
+      "今後の展望",
+      "Encuraの哲学"
+    ],
+    "target_audience": "テクノロジーに関心のある人、教育に関心のある人",
+    "estimated_duration": null,
+    "related_project": "Encura",
+    "hashtags": [
+      "#Encura",
+      "#AI",
+      "#教育テック",
+      "#美術館",
+      "#開発秘話"
+    ],
+    "created_at": "2025-12-12T10:15:49.766472"
+  },
+  {
+    "category": "技術",
+    "title": "Pythonで始めるAIアプリ開発：OpenAI API入門",
+    "description": "PythonとOpenAI APIを使って、簡単なAIアプリを作る方法を解説します。APIキーの取得、テキスト生成、画像生成など、基本的な使い方をステップバイステップで説明。",
+    "platform": "youtube",
+    "key_points": [
+      "OpenAI APIキー取得",
+      "Pythonコード例",
+      "テキスト生成",
+      "画像生成",
+      "エラーシューティング"
+    ],
+    "target_audience": "Python初心者、AIアプリ開発に興味のある人",
+    "estimated_duration": "10分",
+    "related_project": null,
+    "hashtags": [
+      "#Python",
+      "#AI",
+      "#OpenAI",
+      "#API",
+      "#アプリ開発"
+    ],
+    "created_at": "2025-12-12T10:15:49.766476"
+  },
+  {
+    "category": "語学",
+    "title": "Mirutabiで旅を英語学習に！アウトプット練習法",
+    "description": "Mirutabiを使って、旅の思い出を英語でシェアする方法を紹介。写真の説明、旅行記の作成、他のユーザーとの交流など、アウトプット練習のヒントを解説します。",
+    "platform": "tiktok",
+    "key_points": [
+      "Mirutabiの使い方",
+      "英語での表現",
+      "アウトプット練習",
+      "コミュニティ活用"
+    ],
+    "target_audience": "英語学習者、旅行好き",
+    "estimated_duration": "60秒",
+    "related_project": "Mirutabi",
+    "hashtags": [
+      "#英語学習",
+      "#旅行",
+      "#Mirutabi",
+      "#アウトプット",
+      "#英会話"
+    ],
+    "created_at": "2025-12-12T10:15:49.766479"
+  },
+  {
+    "category": "アプリPR",
+    "title": "Vidnitive: YouTubeを最強の教材に変える方法",
+    "description": "Vidnitiveの最新機能紹介と、YouTube動画を教材として活用する具体的な方法を解説。クイズ作成、単語帳作成、学習進捗管理など、Vidnitiveの魅力を余すことなく伝えます。",
+    "platform": "note",
+    "key_points": [
+      "Vidnitiveの機能",
+      "YouTube教材化",
+      "学習効率向上",
+      "活用事例"
+    ],
+    "target_audience": "語学学習者、教育関係者",
+    "estimated_duration": null,
+    "related_project": "Vidnitive",
+    "hashtags": [
+      "#Vidnitive",
+      "#YouTube",
+      "#教材",
+      "#語学学習",
+      "#教育"
+    ],
+    "created_at": "2025-12-12T10:15:49.766482"
+  },
+  {
+    "category": "技術",
+    "title": "FlutterとFirebaseで始める！リアルタイムチャットアプリ開発",
+    "description": "FlutterとFirebaseを使って、リアルタイムチャットアプリを開発するチュートリアル。Firebaseの設定、UIの実装、メッセージの送受信など、基本から応用まで解説します。",
+    "platform": "youtube",
+    "key_points": [
+      "Firebase設定",
+      "Flutter UI",
+      "リアルタイム通信",
+      "認証機能"
+    ],
+    "target_audience": "Flutter開発者、Firebase初心者",
+    "estimated_duration": "10分",
+    "related_project": null,
+    "hashtags": [
+      "#Flutter",
+      "#Firebase",
+      "#アプリ開発",
+      "#チャットアプリ",
+      "#リアルタイム"
+    ],
+    "created_at": "2025-12-12T10:15:49.766486"
+  }
+]

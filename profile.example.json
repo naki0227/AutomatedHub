@@ -1,0 +1,76 @@
+{
+    "profile": {
+        "name": "Your Name",
+        "name_en": "Name in English",
+        "brand": "Your Brand",
+        "tagline": "Your Tagline",
+        "role": "Your Role",
+        "website": "https://example.com",
+        "github": "https://github.com/yourusername",
+        "expertise": [
+            "AI",
+            "Python",
+            "Automation"
+        ]
+    },
+    "sns": {
+        "x_account": "@your_account",
+        "posting_style": "casual_developer",
+        "target_audience": [
+            "Developers",
+            "Students"
+        ],
+        "content_themes": [
+            "Development",
+            "AI Trends"
+        ],
+        "hashtags": [
+            "#YourBrand",
+            "#Python"
+        ]
+    },
+    "campaign": {
+        "active": false,
+        "name": "Campaign Name",
+        "start_date": "2025-01-01",
+        "end_date": "2025-12-31",
+        "preview_url": "",
+        "live_url": "",
+        "include_in_reply": false,
+        "message_before_start": "Coming soon",
+        "message_during": "Now active"
+    },
+    "writing_style": {
+        "tone": "casual_friendly",
+        "characteristics": [
+            "No emojis",
+            "Casual tone"
+        ],
+        "avoid": [
+            "Excessive emojis",
+            "AI-like phrasing"
+        ],
+        "example_posts": [
+            "Example post 1",
+            "Example post 2"
+        ]
+    },
+    "projects": {
+        "released": [],
+        "in_development": []
+    },
+    "competitors": {
+        "app_store_ids": []
+    },
+    "video_content": {
+        "concept": "Video Concept",
+        "themes": [],
+        "video_styles": {
+            "youtube": {
+                "format": "16:9",
+                "duration": "5-10min",
+                "style": "Tutorial"
+            }
+        }
+    }
+}

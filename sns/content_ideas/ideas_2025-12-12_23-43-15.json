@@ -1,0 +1,117 @@
+[
+  {
+    "category": "技術",
+    "title": "Flutter State Management超入門 - Provider vs Riverpod徹底比較",
+    "description": "Flutterアプリ開発におけるState Managementの重要性と、代表的な手法であるProviderとRiverpodの違いを、コード例を交えながら徹底比較します。それぞれのメリット・デメリットを理解し、プロジェクトに最適な選択をできるようになることを目指します。",
+    "platform": "youtube",
+    "key_points": [
+      "Providerの基本的な使い方",
+      "Riverpodの優位性",
+      "具体的なコード例",
+      "状態管理のベストプラクティス"
+    ],
+    "target_audience": "Flutter初心者〜中級者",
+    "estimated_duration": "8分",
+    "related_project": null,
+    "hashtags": [
+      "#Flutter",
+      "#StateManagement",
+      "#Provider",
+      "#Riverpod",
+      "#個人開発"
+    ],
+    "created_at": "2025-12-12T23:43:15.495750"
+  },
+  {
+    "category": "語学",
+    "title": "YouTubeで英語学習を爆速化！Vidnitive活用術",
+    "description": "YouTube動画から教材を自動生成するVidnitiveを使って、効率的に英語学習する方法を紹介します。字幕の活用、単語帳の作成、発音練習など、具体的なステップを解説し、飽きずに継続できる学習法を提案します。",
+    "platform": "tiktok",
+    "key_points": [
+      "Vidnitiveの概要",
+      "YouTube動画の選び方",
+      "教材作成のコツ",
+      "スキマ時間の活用"
+    ],
+    "target_audience": "英語学習者",
+    "estimated_duration": "45秒",
+    "related_project": "Vidnitive",
+    "hashtags": [
+      "#英語学習",
+      "#YouTube",
+      "#Vidnitive",
+      "#効率学習",
+      "#語学学習"
+    ],
+    "created_at": "2025-12-12T23:43:15.495808"
+  },
+  {
+    "category": "アプリPR",
+    "title": "Encura: あなただけの学芸員AI - 個別最適化された学びの体験",
+    "description": "Encuraの機能紹介と、ユーザー事例を紹介します。興味関心に基づいて、まるで学芸員が案内してくれるように、知的好奇心を刺激する情報と出会える体験を伝えます。",
+    "platform": "note",
+    "key_points": [
+      "Encuraのコア機能",
+      "パーソナライズされた学習体験",
+      "実際のユーザーの声",
+      "開発秘話"
+    ],
+    "target_audience": "知的好奇心の高い層、新しい学びの形を探している層",
+    "estimated_duration": "記事: 5分",
+    "related_project": "Encura",
+    "hashtags": [
+      "#Encura",
+      "#AI学芸員",
+      "#パーソナライズ学習",
+      "#学びを冒険に",
+      "#教育テック"
+    ],
+    "created_at": "2025-12-12T23:43:15.495815"
+  },
+  {
+    "category": "技術",
+    "title": "Pythonスクレイピングで始めるデータ収集自動化",
+    "description": "PythonのスクレイピングライブラリBeautiful Soupとrequestsを使って、Webサイトからデータを効率的に収集する方法を解説します。具体的なコード例を通して、スクレイピングの基礎を習得し、データ収集を自動化するスキルを身につけます。",
+    "platform": "note",
+    "key_points": [
+      "Beautiful Soupとrequestsのインストール",
+      "HTMLの構造理解",
+      "データの抽出方法",
+      "スクレイピングの注意点"
+    ],
+    "target_audience": "Python初心者〜中級者",
+    "estimated_duration": "記事: 7分",
+    "related_project": null,
+    "hashtags": [
+      "#Python",
+      "#スクレイピング",
+      "#BeautifulSoup",
+      "#データ収集",
+      "#自動化"
+    ],
+    "created_at": "2025-12-12T23:43:15.495820"
+  },
+  {
+    "category": "アプリPR",
+    "title": "Mirutabi: 旅の体験を共有し、新しい発見を - 旅行好きのためのSNS",
+    "description": "Mirutabiの魅力と使い方を紹介します。旅の思い出を写真や動画で記録・共有し、他のユーザーの投稿からインスピレーションを得る方法を解説します。",
+    "platform": "youtube",
+    "key_points": [
+      "Mirutabiのユニークな機能",
+      "旅の体験共有のメリット",
+      "他のSNSとの違い",
+      "開発チームの想い"
+    ],
+    "target_audience": "旅行好き、新しいSNSを探している層",
+    "estimated_duration": "6分",
+    "related_project": "Mirutabi",
+    "hashtags": [
+      "#Mirutabi",
+      "#旅行",
+      "#SNS",
+      "#旅の思い出",
+      "#旅行好きな人と繋がりたい"
+    ],
+    "created_at": "2025-12-12T23:43:15.495825"
+  }
+]

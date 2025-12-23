@@ -1,0 +1,37 @@
+{
+  "topic": "実践フルAIコーディング",
+  "created_at": "2025-12-12T09:36:19.185487",
+  "note": {
+    "title": "実践フルAIコーディング",
+    "free_content": "",
+    "paid_content": "",
+    "sources": [
+      "https://zenn.dev/erukiti/articles/2512-full-ai-cofing"
+    ]
+  },
+  "x_post": {
+    "main_text": "AIにコーディングを丸投げする「フルAIコーディング」を実践した記事。環境構築からテスト実行まで、AIがどこまでできるのか？ 試行錯誤の過程と結果がまとめられています。/zenn.dev/erukiti/articles/2512-full-ai-cofing",
+    "hashtags": [
+      "#AIコーディング",
+      "#自動生成",
+      "#プログラミング"
+    ],
+    "image_prompt": "A robot sitting in front of a computer, coding with a determined expression.",
+    "source_url": "https://zenn.dev/erukiti/articles/2512-full-ai-cofing",
+    "reply_text": "フルAIコーディングの詳しい手順や、各段階でのプロンプトなどはnoteにまとめています。興味のある方はぜひ！",
+    "note_url": "",
+    "campaign_url": ""
+  },
+  "instagram": {
+    "caption": "AIによるコーディングの最前線。記事では、AIを活用してコードを生成する実践的な方法を紹介しています。開発効率を向上させるための具体的な手順や、AIが生成したコードの品質を保つためのヒントが満載。未来のコーディングスタイルを垣間見ることができます。",
+    "hashtags": [
+      "#AIコーディング",
+      "#自動生成",
+      "#プログラミング",
+      "#開発効率",
+      "#未来技術"
+    ],
+    "image_prompt": "A futuristic cityscape with glowing code streams flowing through the buildings, symbolizing AI-powered coding.",
+    "source_url": "https://zenn.dev/erukiti/articles/2512-full-ai-cofing"
+  }
+}

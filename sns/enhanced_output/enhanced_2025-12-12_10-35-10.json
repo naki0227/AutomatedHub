@@ -1,0 +1,37 @@
+{
+  "topic": "実践フルAIコーディング",
+  "created_at": "2025-12-12T10:35:10.439468",
+  "note": {
+    "title": "フルAIコーディング、マジで実用レベル\n#AIコーディング #GPT #AI技術",
+    "free_content": "## フルAIコーディング、マジで実用レベル\n\n最近、巷で話題のAIコーディング。\n「まだ実用的じゃないでしょ？」って思ってる人もいるんじゃないかな。\nでも、**それはもう過去の話**だ。\n\nこの記事では、マジでフルAIコーディングを実践した話をしようと思う。\nここで言うフルAIコーディングっていうのは、企画から実装、テストまで、**ほぼ全ての工程をAIに任せる**ってこと。\nもちろん、多少の手直しは必要だけど、想像以上にAIが頑張ってくれるんだよ。\n\n今回使ったのは、GPT-4をベースにしたAIコーディングツール。\n簡単な指示を出すだけで、コードを生成してくれる。\nしかも、ただコードを生成するだけじゃなくて、**設計思想**や**セキュリティ**まで考慮してくれるのがすごい。\n\n例えば、「シンプルなTODOアプリを作って」って指示を出すと、Reactでフロントエンド、バックエンドはNode.jsで、データベースはPostgreSQLで、みたいな構成を提案してくれる。\nもちろん、構成は自分でカスタマイズできるし、AIに質問しながら進めることも可能だ。\n\n正直、最初は「どうせ動かないんでしょ？」って疑ってたけど、実際に動くものが出来上がってきて、**マジで衝撃**だった。\nもちろん、完璧ではないから、バグがあったり、コードが冗長だったりする部分もある。\nでも、**それを修正するのもAIに任せられる**んだから、本当にすごい時代になったなと思う。\n\n今回は、実際にAIを使ってTODOアプリを開発した過程を詳しく解説するよ。\n**有料版**では、具体的なプロンプトの書き方、AIが生成したコードのレビュー、そして、実際に動くアプリをデプロイするまでの手順を解説するから、興味がある人はぜひ読んでみてね。\nフルAIコーディングの世界を体験して、開発効率を爆上げしよう！",
+    "paid_content": "---\n## フルAIコーディング、どこまでできる？【有料版：実践編】\n\n無料部分では、AIコーディングの現状と可能性について語った。ここでは、さらに踏み込んで、具体的な事例と技術的な詳細を解説していく。\n\n### 今回のテーマ：簡単なWebアプリ作成\n\nお題は「簡単なTODOリストWebアプリ」だ。要件は以下とする。\n\n*   タスクの追加\n*   タスクの削除\n*   タスクの完了/未完了の切り替え\n*   ローカルストレージへのデータ保存\n\nフレームワークはReact、言語はTypeScriptを選択。最近のトレンドも意識しつつ、Tailwind CSSでスタイリングも行う。\n\n### フルAIコーディングの手順\n\n1.  **GPT-4に指示**: まず、GPT-4に上記の要件を伝え、React + TypeScript + Tailwind CSSでTODOリストアプリのコードを生成するように依頼する。\n2.  **コードレビュー**: 生成されたコードをレビューし、改善点や修正箇所を洗い出す。\n3.  **修正指示**: GPT-4に修正指示を出し、コードを改善していく。\n4.  **動作確認**: 実際にアプリを動かし、動作確認を行う。\n5.  **微調整**: 必要に応じて、コードを微調整する。\n\n### GPT-4との対話例\n\n具体的な指示例をいくつか紹介する。\n\n*   「React + TypeScript + Tailwind CSSでTODOリストアプリの基本的なコードを生成してください。ローカルストレージにデータを保存するようにしてください。」\n*   「タスクの削除機能が実装されていません。削除ボタンを追加し、タスクを削除できるようにしてください。」\n*   「完了/未完了の切り替え機能が動作しません。チェックボックスの状態に応じて、タスクの状態を切り替えられるように修正してください。」\n*   「Tailwind CSSのクラス名が適切ではありません。よりSemanticなクラス名に変更してください。」\n\n### 実践で得られた知見\n\n実際にフルAIコーディングを試してみて、いくつか重要な点が見えてきた。\n\n*   **指示の具体性**: 指示は具体的であればあるほど、GPT-4は正確なコードを生成できる。曖昧な指示では、意図と異なるコードが生成される可能性が高い。\n*   **コードレビューの重要性**: 生成されたコードは必ずレビューする必要がある。GPT-4は完璧ではないため、バグや非効率なコードが含まれている場合がある。\n*   **修正指示の粒度**: 修正指示は、なるべく小さな単位で行うのが望ましい。一度に多くの修正を指示すると、GPT-4が混乱し、意図しない結果になることがある。\n*   **エラーメッセージの活用**: エラーが発生した場合は、エラーメッセージをそのままGPT-4に伝えることで、解決策を提案してくれる場合がある。\n*   **プロンプトエンジニアリング**: より良いコードを生成するためには、プロンプトを工夫する必要がある。例えば、「〜してください」だけでなく、「〜という観点から〜してください」のように、指示にコンテキストを加えることで、より洗練されたコードが生成される可能性がある。\n\n### コード例（一部抜粋）\n\n```typescript\n// src/App.tsx\nimport React, { useState, useEffect } from 'react';\n\ninterface Todo {\n  id: string;\n  text: string;\n  completed: boolean;\n}\n\nfunction App() {\n  const [todos, setTodos] = useState<Todo[]>([]);\n  const [newTodo, setNewTodo] = useState('');\n\n  useEffect(() => {\n    const storedTodos = localStorage.getItem('todos');\n    if (storedTodos) {\n      setTodos(JSON.parse(storedTodos));\n    }\n  }, []);\n\n  useEffect(() => {\n    localStorage.setItem('todos', JSON.stringify(todos));\n  }, [todos]);\n\n  const addTodo = () => {\n    if (newTodo.trim() !== '') {\n      setTodos([...todos, { id: crypto.randomUUID(), text: newTodo, completed: false }]);\n      setNewTodo('');\n    }\n  };\n\n  const toggleComplete = (id: string) => {\n    setTodos(todos.map(todo => todo.id === id ? { ...todo, completed: !todo.completed } : todo));\n  };\n\n  const deleteTodo = (id: string) => {\n    setTodos(todos.filter(todo => todo.id !== id));\n  };\n\n  return (\n    <div className=\"container mx-auto p-4\">\n      <h1 className=\"text-2xl font-bold mb-4\">TODOリスト</h1>\n      <div className=\"flex mb-4\">\n        <input\n          type=\"text\"\n          className=\"shadow appearance-none border rounded w-full py-2 px-3 mr-4 text-gray-700 leading-tight focus:outline-none focus:shadow-outline\"\n          placeholder=\"新しいタスク\"\n          value={newTodo}\n          onChange={e => setNewTodo(e.target.value)}\n        />\n        <button className=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline\" onClick={addTodo}>\n          追加\n        </button>\n      </div>\n      <ul>\n        {todos.map(todo => (\n          <li key={todo.id} className=\"flex items-center mb-2\">\n            <input\n              type=\"checkbox\"\n              className=\"mr-2 leading-tight\"\n              checked={todo.completed}\n              onChange={() => toggleComplete(todo.id)}\n            />\n            <span className={todo.completed ? 'line-through text-gray-500' : 'text-gray-900'}>\n              {todo.text}\n            </span>\n            <button className=\"bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline ml-auto\" onClick={() => deleteTodo(todo.id)}>\n              削除\n            </button>\n          </li>\n        ))}\n      </ul>\n    </div>\n  );\n}\n\nexport default App;\n```\n\n### まとめ\n\nフルAIコーディングは、まだ発展途上の技術だが、十分に実用レベルに達していると感じた。特に、簡単なWebアプリや、定型的なコードの生成においては、非常に強力なツールとなる。今後は、より複雑なタスクや、大規模なプロジェクトにおいても、AIコーディングが活用されるようになるだろう。\n個人的には、AIにコードを生成させるだけでなく、レビューや改善指示を出すことで、自身のスキルアップにも繋がると感じているよ。\n---",
+    "sources": [
+      "https://zenn.dev/erukiti/articles/2512-full-ai-cofing"
+    ]
+  },
+  "x_post": {
+    "main_text": "フルAIコーディングを実践した記事。企画から実装、テストまでほぼAIに任せてみた結果、想像以上に実用的なレベルだったとのこと。GPT-4ベースのツールを使用し、設計やセキュリティも考慮したコード生成が可能らしい。詳細は記事にて！\nhttps://zenn.dev/erukiti/articles/2512-full-ai-cofing",
+    "hashtags": [
+      "#AIコーディング",
+      "#GPT",
+      "#AI技術"
+    ],
+    "image_prompt": "A futuristic image of an AI coding a complex program, with binary code and circuit board patterns in the background. Focus on the AI's efficiency and intelligence.",
+    "source_url": "https://zenn.dev/erukiti/articles/2512-full-ai-cofing",
+    "reply_text": "今回のAIコーディング、かなり手応えありました。細かいTipsや具体的な進め方なんかはnoteにまとめたので、興味のある方はぜひ覗いてみてください。",
+    "note_url": "",
+    "campaign_url": "https://camp-fire.jp/projects/909687/view"
+  },
+  "instagram": {
+    "caption": "フルAIコーディングの実践記録。企画から実装、テストまで、ほぼ全工程をAIに任せてみました。GPT-4ベースのAIコーディングツールを使用。設計思想やセキュリティまで考慮されたコード生成に驚き。React、Node.js、PostgreSQLなど、構成の提案もAIが行います。\n\n詳細は記事をご覧ください。",
+    "hashtags": [
+      "#AIコーディング",
+      "#GPT4",
+      "#AI技術",
+      "#自動化",
+      "#プログラミング"
+    ],
+    "image_prompt": "A computer screen displaying lines of code generated by AI, with a person looking at the screen in amazement.",
+    "source_url": "https://zenn.dev/erukiti/articles/2512-full-ai-cofing"
+  }
+}

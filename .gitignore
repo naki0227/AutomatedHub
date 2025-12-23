@@ -1,0 +1,39 @@
+# Environment
+.env
+.env.local
+profile.json
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+drafts/
+reports/
+logs/
+*.log
+
+# Generated Content
+ai/generated_images/
+analytics/patterns/*.json
+!analytics/patterns/.keep
