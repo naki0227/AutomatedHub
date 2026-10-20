@@ -125,7 +125,7 @@ automated/
 ## 👨‍💻 Developer
 
 **Ibuki Nagase** (Enludus)
-*   Portfolio: [https://enludus.vercel.app](https://enludus.vercel.app)
+*   Portfolio: [https://enludus.com](https://enludus.com)
 *   GitHub: [@naki0227](https://github.com/naki0227)
 
 ---

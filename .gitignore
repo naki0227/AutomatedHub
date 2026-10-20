@@ -37,3 +37,4 @@ logs/
 ai/generated_images/
 analytics/patterns/*.json
 !analytics/patterns/.keep
+sns/publish_results/
